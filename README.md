@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Andreytyui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ELE/DELE
-- ⚡ Fun fact: Gosto de criar e descobrir formas para melhorar sistemas operacionais e suas brechas. além de criar projetos.
+👽 Me chamo, Andrey! (Mas pode me chamar de Drey)
+🔧 Técnico em Redes de Computadores - UNIFG
+🎓 Cursando ADS (Analise e Desenvolvimento de Sistemas) - Descomplica
+🌌 Sou um observador do Universo que está em eterno aprendizado sobre a evolução.
+👨🏽‍💻 Estou colaborando a minha jornada Dev e todos os meus estudos de Programação.
+💻 Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
+
 
 <!---
 Andreytyui/Andreytyui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
