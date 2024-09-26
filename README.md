@@ -1,8 +1,13 @@
 👽 Me chamo, Andrey! (Mas pode me chamar de Drey)
+
 🔧 Técnico em Redes de Computadores - UNIFG
+
 🎓 Cursando ADS (Analise e Desenvolvimento de Sistemas) - Descomplica
+
 🌌 Sou um observador do Universo que está em eterno aprendizado sobre a evolução.
+
 👨🏽‍💻 Estou colaborando a minha jornada Dev e todos os meus estudos de Programação.
+
 💻 Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
 
