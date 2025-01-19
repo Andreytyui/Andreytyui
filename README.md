@@ -2,7 +2,7 @@
 
 🔧 Técnico em Redes de Computadores - UNIFG
 
-🎓 Cursando ADS (Analise e Desenvolvimento de Sistemas) - Descomplica
+🎓 Cursando Engenharia da Computação - Descomplica
 
 🌌 Sou um observador do Universo que está em eterno aprendizado sobre a evolução.
 
