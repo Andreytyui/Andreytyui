@@ -2,7 +2,7 @@
 
 🔧 Técnico em Redes de Computadores - UNIFG
 
-🎓 Cursando Engenharia da Computação - Descomplica
+🎓 Cursando Engenharia de Software - Estacio
 
 🌌 Sou um observador do Universo que está em eterno aprendizado sobre a evolução.
 
