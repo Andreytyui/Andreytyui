@@ -1,4 +1,4 @@
-👽 Me chamo, Andrey Nonardo!
+👽 Me chamo Andrey Nonardo!
 
 🔧 Técnico em Redes de Computadores - UNIFG
 
