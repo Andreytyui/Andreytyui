@@ -1,4 +1,4 @@
-👽 Me chamo, Andrey! (Mas pode me chamar de Drey)
+👽 Me chamo, Andrey Nonardo!
 
 🔧 Técnico em Redes de Computadores - UNIFG
 
