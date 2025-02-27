@@ -41,19 +41,19 @@
 Aqui estão os gráficos representando o progresso do meu aprendizado:
 
 - **JavaScript**  
-  ![JavaScript](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/javascript-progress.png)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-green)
 
 - **React**  
-  ![React](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/react-progress.png)
+  ![React](https://img.shields.io/badge/React-60%25-yellow)
 
 - **Node.js**  
-  ![Node.js](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/nodejs-progress.png)
+  ![Node.js](https://img.shields.io/badge/Node.js-50%25-blue)
 
 - **Python**  
-  ![Python](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/python-progress.png)
+  ![Python](https://img.shields.io/badge/Python-40%25-red)
 
 - **Git**  
-  ![Git](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/git-progress.png)
+  ![Git](https://img.shields.io/badge/Git-80%25-brightgreen)
 
 ---
 
