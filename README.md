@@ -1,4 +1,4 @@
-l# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=16161D00&width=435&lines=Ol%C3%A1%2C+Sou+Andrey+Nonardo%21+%F0%9F%91%BD) 👽
+ ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=16161D00&width=435&lines=Ol%C3%A1%2C+Sou+Andrey+Nonardo%21+%F0%9F%91%BD) 👽
 
 🔧 **Técnico em Redes de Computadores** - UNIFG  
 🎓 **Cursando Engenharia de Software** - Estácio  
@@ -23,7 +23,7 @@ l# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size
 
 - **Frontend:** HTML e Css
 - **Backend:** Azure e Python
-- **Banco de Dados:** MySQL,SQL
+- **Banco de Dados:** MySQL e SQL
 - **Outros:** GitHub
 
 ---
@@ -44,7 +44,7 @@ Aqui estão os gráficos representando o progresso do meu aprendizado:
   ![Azure](https://img.shields.io/badge/Azure-70%25-green)
 
 - **Machine Learning**  
-  ![ML](https://img.shields.io/badge/Machine-Learing-60%25-green)
+   ![Marchine Learning](https://img.shields.io/badge/ML-50%25-green)
 
 - **Python**  
   ![Python](https://img.shields.io/badge/Python-50%25-Green)
