@@ -41,16 +41,16 @@ l# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size
 Aqui estão os gráficos representando o progresso do meu aprendizado:
 
 - **JavaScript**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-green)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-70%60-green)
 
 - **React**  
   ![React](https://img.shields.io/badge/React-60%25-yellow)
 
 - **Node.js**  
-  ![Node.js](https://img.shields.io/badge/Node.js-50%25-blue)
+  ![Azure Machine Learning](https://img.shields.io/badge/Azure-50%25-green)
 
 - **Python**  
-  ![Python](https://img.shields.io/badge/Python-50%25-blue)
+  ![Python](https://img.shields.io/badge/Python-50%25-Green)
 
 - **Git**  
   ![Git](https://img.shields.io/badge/Git-80%25-brightgreen)
