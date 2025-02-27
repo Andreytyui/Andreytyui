@@ -41,19 +41,19 @@
 Aqui estão os gráficos representando o progresso do meu aprendizado:
 
 - **JavaScript**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-brightgreen?style=flat&logo=javascript&logoColor=white&color=brightgreen&width=200)
+  ![JavaScript](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
 
 - **React**  
-  ![React](https://img.shields.io/badge/React-60%25-brightgreen?style=flat&logo=react&logoColor=white&color=brightgreen&width=200)
+  ![React](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
 
 - **Node.js**  
-  ![Node.js](https://img.shields.io/badge/Node.js-50%25-yellowgreen?style=flat&logo=node.js&logoColor=white&color=yellowgreen&width=200)
+  ![Node.js](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
 
 - **Python**  
-  ![Python](https://img.shields.io/badge/Python-40%25-yellow?style=flat&logo=python&logoColor=white&color=yellow&width=200)
+  ![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
 
 - **Git**  
-  ![Git](https://img.shields.io/badge/Git-80%25-brightgreen?style=flat&logo=git&logoColor=white&color=brightgreen&width=200)
+  ![Git](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
 
 ---
 
