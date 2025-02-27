@@ -41,16 +41,16 @@
 Aqui estão os gráficos representando o progresso do meu aprendizado:
 
 - **Azure**  
-  ![Azure](https://img.shields.io/badge/Azure-70%25-green)
+  ![Azure](https://img.shields.io/badge/Azure-70%25-Green)
 
 - **Machine Learning**  
-   ![Marchine Learning](https://img.shields.io/badge/ML-50%25-green)
+   ![Marchine Learning](https://img.shields.io/badge/ML-50%25-Green)
 
 - **Python**  
-  ![Python](https://img.shields.io/badge/Python-50%25-Green)
+  ![Python](https://img.shields.io/badge/Python-40%25-Green)
 
 - **Github**  
-  ![Github](https://img.shields.io/badge/Github-80%25-green)
+  ![Github](https://img.shields.io/badge/Github-80%25-Green)
 
 ---
 
