@@ -41,19 +41,19 @@
 Aqui estão os gráficos representando o progresso do meu aprendizado:
 
 - **JavaScript**  
-  ![JavaScript](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
+  ![JavaScript](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/javascript-progress.png)
 
 - **React**  
-  ![React](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
+  ![React](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/react-progress.png)
 
 - **Node.js**  
-  ![Node.js](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
+  ![Node.js](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/nodejs-progress.png)
 
 - **Python**  
-  ![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
+  ![Python](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/python-progress.png)
 
 - **Git**  
-  ![Git](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-nonardo&langs_count=1&layout=compact&hide=HTML&hide_title=true&count_private=true&theme=radical)
+  ![Git](https://github.com/andrey-nonardo/andrey-nonardo/blob/main/assets/git-progress.png)
 
 ---
 
