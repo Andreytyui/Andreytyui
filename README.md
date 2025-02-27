@@ -38,24 +38,22 @@
 
 ## 📊 Meus Status em Gráficos
 
-### 📈 Meu Aprendizado em Tecnologias
-
-Aqui estão gráficos representando o progresso do meu aprendizado:
+Aqui estão os gráficos representando o progresso do meu aprendizado:
 
 - **JavaScript**  
-  ![JavaScript](https://progress-bar.dev/70/?title=JavaScript)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-brightgreen)
 
 - **React**  
-  ![React](https://progress-bar.dev/60/?title=React)
+  ![React](https://img.shields.io/badge/React-60%25-brightgreen)
 
 - **Node.js**  
-  ![Node.js](https://progress-bar.dev/50/?title=Node.js)
+  ![Node.js](https://img.shields.io/badge/Node.js-50%25-yellowgreen)
 
 - **Python**  
-  ![Python](https://progress-bar.dev/40/?title=Python)
+  ![Python](https://img.shields.io/badge/Python-40%25-yellow)
 
 - **Git**  
-  ![Git](https://progress-bar.dev/80/?title=Git)
+  ![Git](https://img.shields.io/badge/Git-80%25-brightgreen)
 
 ---
 
