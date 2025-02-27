@@ -36,6 +36,29 @@
 
 ---
 
+## 📊 Meus Status em Gráficos
+
+### 📈 Meu Aprendizado em Tecnologias
+
+Aqui estão gráficos representando o progresso do meu aprendizado:
+
+- **JavaScript**  
+  ![JavaScript](https://progress-bar.dev/70/?title=JavaScript)
+
+- **React**  
+  ![React](https://progress-bar.dev/60/?title=React)
+
+- **Node.js**  
+  ![Node.js](https://progress-bar.dev/50/?title=Node.js)
+
+- **Python**  
+  ![Python](https://progress-bar.dev/40/?title=Python)
+
+- **Git**  
+  ![Git](https://progress-bar.dev/80/?title=Git)
+
+---
+
 ## 📣 Vamos nos conectar!
 
 [LinkedIn](https://www.linkedin.com/in/andrey-nonardo) | [GitHub](https://github.com/andrey-nonardo)
@@ -51,7 +74,3 @@
 ---
 
 > "A jornada de mil quilômetros começa com um único passo." – Lao Tzu
-
-Andreytyui/Andreytyui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
