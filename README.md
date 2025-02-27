@@ -5,7 +5,7 @@ l# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size
 
 🌌 Sou um observador do **universo**, em constante aprendizado sobre **evolução** e **tecnologia**.
 
-👨🏽‍💻 Estou construindo minha jornada como **Desenvolvedor** e compartilhando todos os meus estudos de **Programação**.
+👨🏽‍💻 Estou construindo minha jornada como **Desenvolvedor de IA** e compartilhando todos os meus estudos de **Programação**.
 
 💻 **Espero contribuir com aqueles que estão começando e, assim como eu, são apaixonados por programação!**
 
@@ -14,25 +14,25 @@ l# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size
 ## 🚀 Status Atual
 
 - **📚 Cursando** Engenharia de Software na **Estácio**
-- **🔨 Aprendendo** novas tecnologias como **JavaScript**, **Python**, **React**, e **Node.js**
+- **🔨 Aprendendo** novas tecnologias como **Azure**, **Python**, **Google Cloud Platform**, e **OpenAI**
 - **💡 Em busca de novos projetos** para me desafiar e evoluir como desenvolvedor
 
 ---
 
 ## 🛠️ Ferramentas e Tecnologias que Uso
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Banco de Dados:** MySQL, MongoDB
-- **Outros:** Git, GitHub, Docker
+- **Frontend:** HTML e Css
+- **Backend:** Azure e Python
+- **Banco de Dados:** MySQL,SQL
+- **Outros:** GitHub
 
 ---
 
 ## 🌱 Atualmente Aprendendo
 
-- Desenvolvimento de **APIs REST**
-- **Programação Orientada a Objetos**
-- Melhoria nas habilidades de **DevOps**
+- Desenvolvimento de **IA**
+- **Inteligência Artificial**
+- Melhoria nas habilidades de **Azure**
 
 ---
 
@@ -40,34 +40,23 @@ l# ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size
 
 Aqui estão os gráficos representando o progresso do meu aprendizado:
 
-- **JavaScript**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-70%60-green)
+- **Azure**  
+  ![Azure](https://img.shields.io/badge/Azure-70%25-green)
 
-- **React**  
-  ![React](https://img.shields.io/badge/React-60%25-yellow)
-
-- **Node.js**  
-  ![Azure Machine Learning](https://img.shields.io/badge/Azure-50%25-green)
+- **Machine Learning**  
+  ![ML](https://img.shields.io/badge/Machine-Learing-60%25-green)
 
 - **Python**  
   ![Python](https://img.shields.io/badge/Python-50%25-Green)
 
-- **Git**  
-  ![Git](https://img.shields.io/badge/Git-80%25-brightgreen)
+- **Github**  
+  ![Github](https://img.shields.io/badge/Github-80%25-green)
 
 ---
 
 ## 📣 Vamos nos conectar!
 
-[LinkedIn](https://www.linkedin.com/in/andrey-nonardo) | [GitHub](https://github.com/andrey-nonardo)
-
----
-
-## 🏆 Meus Status no GitHub
-
-![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrey-nonardo&show_icons=true&count_private=true&hide=prs)
-
-![Contribuições de Andrey](https://github-readme-streak-stats.herokuapp.com/?user=andrey-nonardo)
+[LinkedIn](https://www.linkedin.com/in/andrey-nonardo-229b77220/) | [GitHub](https://github.com/Andreytyui)
 
 ---
 
