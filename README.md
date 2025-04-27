@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=16161D00&width=435&lines=Olá%2C+Sou+Andrey+Nonardo%21+👽" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+Sou+Andrey+Nonardo%21+%F0%9F%91%BD" alt="Typing Animation" />
 </p>
 
-🔧 **Técnico em Redes de Computadores** - UNIFG  
-🎓 **Cursando Engenharia de Software** - Estácio  
+🔧 **Técnico em Redes de Computadores** - UNIFG  \
+🎓 **Cursando Engenharia de Software** - Estácio  \
 
 🌌 Sou um observador do **universo**, em constante aprendizado sobre **evolução** e **tecnologia**.
 
@@ -16,7 +16,7 @@
 ## 🚀 Status Atual
 
 - **📚 Cursando** Engenharia de Software na **Estácio**
-- **🔨 Aprendendo** novas tecnologias como **Azure**, **Python**, **Google Cloud Platform**, e **OpenAI**
+- **🔨 Aprendendo** novas tecnologias como **Azure**, **Python**, **Google Cloud Platform** e **OpenAI**
 - **💡 Em busca de novos projetos** para me desafiar e evoluir como desenvolvedor
 
 ---
@@ -44,13 +44,13 @@
   ![Azure](https://img.shields.io/badge/Azure-70%25-brightgreen)
 
 - **Machine Learning**  
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-50%25-brightgreen)
+   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-50%25-brightgreen)
 
 - **Python**  
   ![Python](https://img.shields.io/badge/Python-40%25-brightgreen)
 
-- **GitHub**  
-  ![GitHub](https://img.shields.io/badge/GitHub-80%25-brightgreen)
+- **Github**  
+  ![Github](https://img.shields.io/badge/Github-80%25-brightgreen)
 
 ---
 
@@ -58,13 +58,13 @@
 
 Experimente este mini jogo clássico de cobrinha clicando [aqui](https://github.com/platane/snk)!
 
-![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 👾 Visitantes na minha página
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Andreytyui&color=brightgreen&label=👾+Visitantes)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Andreytyui.Andreytyui&left_color=blue&right_color=green&style=for-the-badge&left_text=👾+Visitantes)
 
 ---
 
