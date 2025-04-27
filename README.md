@@ -57,9 +57,11 @@
 
 ---
 
-### 🎮 Correndo atrás do progresso!
+### 🎮 MINI JOGO: COBRINHA RETRÔ
 
+Clique para jogar o clássico Snake com seu histórico de contribuições:
 
+[![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/platane/snk)
 
 ---
 
