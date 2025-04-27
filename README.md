@@ -1,86 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+Olá+Eu+Sou+Andrey+Nonardo%21;" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+EU+SOU+ANDREY+NONARDO%21;DESENVOLVEDOR+DE+IA+EM+TREINAMENTO;BEM-VINDO+AO+MEU+GITHUB+RETRO!" alt="Typing SVG" />
 </p>
 
 ---
-
-### About Me
-
-```bash
-🔧 Computer Network Technician - UNIFG
-🎓 Software Engineering Student - Estácio
-```
-
-> 🌌 I am an observer of the universe, always pursuing evolution and technology.  
-> 👨🏽‍💻 I am building my journey as an AI Developer and sharing all my programming studies.  
-> 💻 I aim to contribute to those who are starting and, like me, are passionate about coding!
-
----
-
-### Current Status
-
-```bash
-📚 Studying Software Engineering
-🔨 Learning Azure, Python, Google Cloud Platform, and OpenAI
-💡 Seeking new challenging projects
-```
-
----
-
-### Stack & Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### Currently Learning
-
-```bash
-🤖 Artificial Intelligence
-☁️ Azure & Cloud Computing
-🧠 Machine Learning
-```
-
----
-
-### Progress Bars
-
-![Azure](https://img.shields.io/badge/AZURE-70%25-purple?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-50%25-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/PYTHON-40%25-yellow?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GITHUB-80%25-green?style=for-the-badge)
-
----
-
-### Socials
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrey-nonardo-229b77220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Andreytyui">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
----
-
-### Visitor Counter
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@Andreytyui?theme=rule34" alt="Visitors" />
-</p>
-
----
-
-<details>
-<summary>Clique para ver em portugês</summary>
 
 ### 🧠 SOBRE MIM
 
@@ -107,9 +29,12 @@
 
 ### ⚙️ STACK & TECNOLOGIAS
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -125,8 +50,24 @@
 
 ### 📊 BARRAS DE PROGRESSO
 
-![Azure](https://img.shields.io/badge/AZURE-70%25-purple?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-50%25-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/PYTHON-40%25-yellow?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GITHUB-80%25-green?style=for-the-badge)
+![Azure](https://img.shields.io/badge/AZURE-70%25-purple?style=for-the-badge)
+![ML](https://img.shields.io/badge/MACHINE_LEARNING-50%25-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-40%25-yellow?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GITHUB-80%25-green?style=for-the-badge)
+
+---
+
+### 🎮 Correndo atrás do progresso!
+
+
+
+---
+
+### 🧮 CONTADOR DE VISITANTES
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Andreytyui?theme=rule34" alt="Visitantes" />
+</p>
 
 ---
 
@@ -142,21 +83,5 @@
 </p>
 
 ---
-
-### 🎮 MINI JOGO: COBRINHA RETRÔ
-
-Clique para jogar:
-
-[![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/platane/snk)
-
----
-
-### 🧮 CONTADOR DE VISITANTES
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@Andreytyui?theme=rule34" alt="Visitantes" />
-</p>
-
-</details>
 
 > "A jornada de mil quilômetros começa com um único passo." – Lao Tzu
