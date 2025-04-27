@@ -12,7 +12,7 @@
 ```
 
 > 🌌 Observador do universo, sempre em busca de evolução e tecnologia.  
-> 👨🏽‍💻 Desenvolvedor de IA em formação, apaixonado por programação.  
+> 👨🏽‍💻 Engenheiro de Sotware em formação, apaixonado por programação.  
 > 💻 Compartilho minha jornada para inspirar outros devs em início de carreira.
 
 ---
@@ -52,7 +52,7 @@
 
 ![Azure](https://img.shields.io/badge/AZURE-70%25-purple?style=for-the-badge)
 ![ML](https://img.shields.io/badge/MACHINE_LEARNING-50%25-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/PYTHON-40%25-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-80%25-yellow?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GITHUB-80%25-green?style=for-the-badge)
 
 ---
@@ -81,6 +81,9 @@
   </a>
   <a href="https://github.com/Andreytyui">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+   <a href="https://github.com/Andreytyui">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
