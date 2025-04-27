@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Software Engineer</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+EU+SOU+ANDREY+NONARDO%21;DESENVOLVEDOR+DE+IA+EM+TREINAMENTO;BEM-VINDO+AO+MEU+GITHUB+RETRO!" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-### Social
+### Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-nonardo-229b77220/">
@@ -69,12 +69,6 @@
 
 ---
 
-### Retro Snake Mini Game
-
-Click to play the classic Snake:
-
-[![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/platane/snk)
-
 ---
 
 ### Visitor Counter
@@ -86,7 +80,7 @@ Click to play the classic Snake:
 ---
 
 <details>
-<summary>Click here to view in Portuguese</summary>
+<summary>Clique para ver em portugês</summary>
 
 ### 🧠 SOBRE MIM
 
