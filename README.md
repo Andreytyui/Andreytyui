@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+HELLO,MY+NAME+IS+ANDREY+NONARDO%21;!" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=F7F7F7&background=00000000&width=800&lines=Hello%2C+My+Name+is+Andrey+Nonardo&lines=I+am+a+Software+Engineering+Student"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+I+Am+a+Software+Engineering+Student%21" alt="Typing SVG" />
+  <em>Software Engineer</em>
 </p>
 
 ---
@@ -56,7 +59,7 @@
 
 ---
 
-### Socials
+### Social
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-nonardo-229b77220/">
@@ -69,6 +72,12 @@
 
 ---
 
+### Retro Snake Mini Game
+
+Click to play the classic Snake:
+
+[![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/platane/snk)
+
 ---
 
 ### Visitor Counter
@@ -80,7 +89,7 @@
 ---
 
 <details>
-<summary>Clique para ver em portugês</summary>
+<summary>Click here to view in Portuguese</summary>
 
 ### 🧠 SOBRE MIM
 
