@@ -1,85 +1,162 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+Sou+Andrey+Nonardo%21+%F0%9F%91%BD" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+EU+SOU+ANDREY+NONARDO%21;DESENVOLVEDOR+DE+IA+EM+TREINAMENTO;BEM-VINDO+AO+MEU+GITHUB+RETRO!" alt="Typing SVG" />
 </p>
 
-🔧 **Técnico em Redes de Computadores** - UNIFG  \
-🎓 **Cursando Engenharia de Software** - Estácio  \
-
-🌌 Sou um observador do **universo**, em constante aprendizado sobre **evolução** e **tecnologia**.
-
-👨🏽‍💻 Estou construindo minha jornada como **Desenvolvedor de IA** e compartilhando todos os meus estudos de **Programação**.
-
-💻 **Espero contribuir com aqueles que estão começando e, assim como eu, são apaixonados por programação!**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+EU+SOU+ANDREY+NONARDO%21;DESENVOLVEDOR+DE+IA+EM+TREINAMENTO;BEM-VINDO+AO+MEU+GITHUB+RETRO!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Status Atual
+### About Me
 
-- **📚 Cursando** Engenharia de Software na **Estácio**
-- **🔨 Aprendendo** novas tecnologias como **Azure**, **Python**, **Google Cloud Platform** e **OpenAI**
-- **💡 Em busca de novos projetos** para me desafiar e evoluir como desenvolvedor
+```bash
+🔧 Computer Network Technician - UNIFG
+🎓 Software Engineering Student - Estácio
+```
 
----
-
-## 🛠️ Ferramentas e Tecnologias que Uso
-
-- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Backend:** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Banco de Dados:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-- **Outros:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+> 🌌 I am an observer of the universe, always pursuing evolution and technology.  
+> 👨🏽‍💻 I am building my journey as an AI Developer and sharing all my programming studies.  
+> 💻 I aim to contribute to those who are starting and, like me, are passionate about coding!
 
 ---
 
-## 🌱 Atualmente Aprendendo
+### Current Status
 
-- Desenvolvimento de **IA**
-- **Inteligência Artificial**
-- Melhoria nas habilidades de **Azure**
-
----
-
-## 📊 Meus Status em Gráficos
-
-- **Azure**  
-  ![Azure](https://img.shields.io/badge/Azure-70%25-brightgreen)
-
-- **Machine Learning**  
-   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-50%25-brightgreen)
-
-- **Python**  
-  ![Python](https://img.shields.io/badge/Python-40%25-brightgreen)
-
-- **Github**  
-  ![Github](https://img.shields.io/badge/Github-80%25-brightgreen)
+```bash
+📚 Studying Software Engineering
+🔨 Learning Azure, Python, Google Cloud Platform, and OpenAI
+💡 Seeking new challenging projects
+```
 
 ---
 
-## 🎮 Mini Game - Snake 🐍
+### Stack & Technologies
 
-Experimente este mini jogo clássico de cobrinha clicando [aqui](https://github.com/platane/snk)!
-
-![Snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-## 👾 Visitantes na minha página
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Andreytyui.Andreytyui&left_color=blue&right_color=green&style=for-the-badge&left_text=👾+Visitantes)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📣 Vamos nos conectar!
+### Currently Learning
+
+```bash
+🤖 Artificial Intelligence
+☁️ Azure & Cloud Computing
+🧠 Machine Learning
+```
+
+---
+
+### Progress Bars
+
+![Azure](https://img.shields.io/badge/AZURE-70%25-purple?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-50%25-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-40%25-yellow?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GITHUB-80%25-green?style=for-the-badge)
+
+---
+
+### Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-nonardo-229b77220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Andreytyui">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-> "A jornada de mil quilômetros começa com um único passo." – Lao Tzu
+---
 
+### Visitor Counter
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Andreytyui?theme=rule34" alt="Visitors" />
+</p>
+
+---
+
+<details>
+<summary>Clique para ver em portugês</summary>
+
+### 🧠 SOBRE MIM
+
+```bash
+🔧 Técnico em Redes de Computadores - UNIFG
+🎓 Cursando Engenharia de Software - Estácio
+```
+
+> 🌌 Observador do universo, sempre em busca de evolução e tecnologia.  
+> 👨🏽‍💻 Desenvolvedor de IA em formação, apaixonado por programação.  
+> 💻 Compartilho minha jornada para inspirar outros devs em início de carreira.
+
+---
+
+### 🚀 STATUS ATUAL
+
+```bash
+📚 Cursando Engenharia de Software
+🔨 Aprendendo Azure, Python, GCP e OpenAI
+💡 Buscando novos projetos desafiadores
+```
+
+---
+
+### ⚙️ STACK & TECNOLOGIAS
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📚 ATUALMENTE APRENDENDO
+
+```bash
+🤖 Inteligência Artificial
+☁️ Azure & Cloud Computing
+🧠 Machine Learning
+```
+
+---
+
+### 📊 BARRAS DE PROGRESSO
+
+![Azure](https://img.shields.io/badge/AZURE-70%25-purple?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-50%25-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-40%25-yellow?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GITHUB-80%25-green?style=for-the-badge)
+
+---
+
+### 📡 REDES SOCIAIS
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrey-nonardo-229b77220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Andreytyui">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 🎮 MINI JOGO: COBRINHA RETRÔ
+
+Clique para jogar:
+
+[![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/platane/snk)
+
+---
+
+### 🧮 CONTADOR DE VISITANTES
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Andreytyui?theme=rule34" alt="Visitantes" />
+</p>
+
+</details>
+
+> "A jornada de mil quilômetros começa com um único passo." – Lao Tzu
