@@ -1,78 +1,90 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=16161D00&width=435&lines=Ol%C3%A1%2C+Sou+Andrey+Nonardo%21+%F0%9F%91%BD) 👽
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=OL%C3%81%2C+EU+SOU+ANDREY+NONARDO%21;DESENVOLVEDOR+DE+IA+EM+TREINAMENTO;BEM-VINDO+AO+MEU+GITHUB+RETRO!" alt="Typing SVG" />
+</p>
 
 ---
 
-🔧 **Técnico em Redes de Computadores** - UNIFG  
-🎓 **Cursando Engenharia de Software** - Estácio  
+### 🧠 SOBRE MIM
 
-🌌 Sou um observador do **universo**, em constante aprendizado sobre **evolução** e **tecnologia**.
+```bash
+🔧 Técnico em Redes de Computadores - UNIFG
+🎓 Cursando Engenharia de Software - Estácio
+```
 
-👨🏽‍💻 Estou construindo minha jornada como **Desenvolvedor de IA** e compartilhando todos os meus estudos de **Programação**.
-
-💻 **Espero contribuir com aqueles que estão começando e, assim como eu, são apaixonados por programação!**
-
----
-
-## 🚀 Status Atual
-
-- **📚 Cursando** Engenharia de Software na **Estácio**
-- **🔨 Aprendendo** novas tecnologias como **Azure**, **Python**, **Google Cloud Platform** e **OpenAI**
-- **💡 Em busca de novos projetos** para me desafiar e evoluir como desenvolvedor
+> 🌌 Observador do universo, sempre em busca de evolução e tecnologia.  
+> 👨🏽‍💻 Desenvolvedor de IA em formação, apaixonado por programação.  
+> 💻 Compartilho minha jornada para inspirar outros devs em início de carreira.
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias que Uso
+### 🚀 STATUS ATUAL
 
-- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Backend:** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Banco de Dados:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-- **Outros:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🌱 Atualmente Aprendendo
-
-- Desenvolvimento de **IA**
-- **Inteligência Artificial**
-- Melhoria nas habilidades de **Azure**
+```bash
+📚 Cursando Engenharia de Software
+🔨 Aprendendo Azure, Python, GCP e OpenAI
+💡 Buscando novos projetos desafiadores
+```
 
 ---
 
-## 📊 Meus Status em Gráficos
+### ⚙️ STACK & TECNOLOGIAS
 
-- **Azure**  
-  ![Azure](https://img.shields.io/badge/Azure-70%25-brightgreen)
-
-- **Machine Learning**  
-   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-50%25-brightgreen)
-
-- **Python**  
-  ![Python](https://img.shields.io/badge/Python-40%25-brightgreen)
-
-- **Github**  
-  ![Github](https://img.shields.io/badge/Github-80%25-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🎮 Mini Game - Snake 🐍
+### 📚 ATUALMENTE APRENDENDO
 
-Experimente este mini jogo clássico de cobrinha clicando [aqui](https://github.com/platane/snk)!
-
-![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 👾 Visitantes na minha página
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Andreytyui&color=brightgreen&label=👾+Visitantes)
+```bash
+🤖 Inteligência Artificial
+☁️ Azure & Cloud Computing
+🧠 Machine Learning
+```
 
 ---
 
-## 📣 Vamos nos conectar!
+### 📊 BARRAS DE PROGRESSO
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-nonardo-229b77220/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andreytyui)
+![Azure](https://img.shields.io/badge/AZURE-70%25-purple?style=for-the-badge)
+![ML](https://img.shields.io/badge/MACHINE_LEARNING-50%25-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-40%25-yellow?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GITHUB-80%25-green?style=for-the-badge)
+
+---
+
+### 🎮 MINI JOGO: COBRINHA RETRÔ
+
+Clique para jogar o clássico Snake com seu histórico de contribuições:
+
+[![Snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/platane/snk)
+
+---
+
+### 🧮 CONTADOR DE VISITANTES
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Andreytyui?theme=rule34" alt="Visitantes" />
+</p>
+
+---
+
+### 📡 REDES SOCIAIS
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrey-nonardo-229b77220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Andreytyui">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 > "A jornada de mil quilômetros começa com um único passo." – Lao Tzu
+
