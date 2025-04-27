@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
    <a href="https://github.com/Andreytyui">
-    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=Instagram&logoColor=hot-pink" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=Instagram&logoColor=hotpink" alt="Instagram" />
   </a>
 </p>
 
