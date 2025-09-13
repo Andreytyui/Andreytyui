@@ -7,7 +7,7 @@
 ### 🧠 SOBRE MIM
 
 ```bash
-🔧 Técnico em Redes de Computadores - UNIFG
+🔧 Formado em Redes de Computadores - UNIFG
 🎓 Cursando Engenharia de Software - Estácio
 ```
 
@@ -21,7 +21,7 @@
 
 ```bash
 📚 Cursando Engenharia de Software
-🔨 Aprendendo Azure, Python, GCP e OpenAI
+🔨 Estudando atualmente: Machine  learning, e Python
 💡 Buscando novos projetos desafiadores
 ```
 
